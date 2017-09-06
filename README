@@ -1,0 +1,7 @@
+
+Deep Learning - Convolutional Neural Networks
+
+image-classification.html  -- html
+image-classification.ipynb -- jupyter notebook
+helper.py  -- helper functions
+problem_unittests.py -- unit tests
